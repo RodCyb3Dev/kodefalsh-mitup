@@ -40,12 +40,11 @@ class App extends Component {
 
         <CookieConsent
             location="bottom"
-            buttonText="I understand"
+            buttonText="Ymmärrän"
             cookieName="myAwesomeCookieName2"
             style={{ background: "#2B373B", text: "center" }}
             buttonStyle={{ color: "#4e503b", fontSize: "13px", cursor: "pointer" }}
             expires={150}
-            onAccept={() => {alert("Yay!")}}
         >
             Käytämme evästeitä Kodeflash-MitUp-sivustoilla, jotta nautittavammat ja houkuttelevat mainoksesi. Jatkamalla selaamassa sivustoa suostut käyttämään evästeitä.{" "}
         </CookieConsent>

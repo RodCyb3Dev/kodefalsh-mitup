@@ -18,7 +18,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "homepage": "http://myname.github.io/myapp"
+    "homepage": "https://kodeflash-mitup.herokuapp.com/"
   },
   "eslintConfig": {
     "extends": "react-app"
