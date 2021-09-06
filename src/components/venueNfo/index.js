@@ -24,7 +24,7 @@ const VunueNfo = () => {
                                         Tapahtuma päivää ja aika
                                     </div>
                                     <div className="vn_desc">
-                                        17 helmikuuta 2019 klo 10.00
+                                        17 helmikuuta 2022 klo 10.00
                                     </div>
                                 </div>
                             </div>
@@ -46,7 +46,7 @@ const VunueNfo = () => {
                                         Tapahtuma sijainti
                                     </div>
                                     <div className="vn_desc">
-                                        345 katu, 50100 Lappeenranta, Suomi.
+                                        345 katu, 50100 Lpr, Suomi.
                                     </div>
                                 </div>
                             </div>

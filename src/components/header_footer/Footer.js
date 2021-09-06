@@ -5,9 +5,9 @@ const Footer = () => {
     return (
         <footer className="bck_red">
             <Fade delay={500}>
-                <div className="font_righteous footer_logo_venue">Kodeflash</div>
+                <div className="font_righteous footer_logo_venue">KodeMitUp</div>
                 <div className="footer_copyright">
-                    © 2018 Kodeflash-MitUp | All rights reserved.
+                    © 2018 - {new Date().getFullYear()} KodeMitUp | All rights reserved.
                 </div>
             </Fade>
         </footer>
